@@ -1,5 +1,6 @@
 package com.draysams.eventsourcedusermanagement
 
+import com.draysams.eventsourcedusermanagement.models.User
 import spock.lang.Specification
 
 class UserTest extends Specification {
